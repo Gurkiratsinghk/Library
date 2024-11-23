@@ -96,6 +96,6 @@ You can customize the script by:
 | Example Book  | John Doe   | Fiction  | Example Pub  | 2020             | 9781234567890|
 | Another Book  | Jane Smith | Non-Fiction| Another Pub  | 2019             | 9789876543210|
 
-## License
+<!-- ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
