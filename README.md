@@ -1,6 +1,6 @@
 # Enhanced Book Metadata Updater
 
-A Python code that automatically updates Google Sheets with comprehensive book metadata from multiple APIs. The application fetches detailed information from Google Books and Open Library APIs, merges the data, and updates your spreadsheet with missing book details.
+A Python code that automatically updates Google Sheets with book metadata from multiple APIs. The application fetches detailed information from Google Books and Open Library APIs, merges the data, and updates your spreadsheet with missing book details.
 
 ## Features
 
