@@ -1,3 +1,5 @@
 *.env
 book_env/
 *.json
+logs/
+backups/
